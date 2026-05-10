@@ -1,0 +1,7 @@
+SRR_no,Sample_name_NCBI,Library_tag,Mix,Input_cell_number,Total_seq_effort(bp),Treatment,Total_reads,Estimated_cell_number_cellranger,Barcodes_w_min1_UMI,Unique_gene_count,Mapped_genes_count,Total_mapped_gene_count,mean_mapped_reads_per_cell,median_genes/cell,median_UMI_count/cell,%_Reads_mapped_confidently
+SRR24886407,Mixed scRNA-seq Trichoplax sp. H2 and Cladtertia collaboinventa 2,Plac02_H2_H23_10XscRNAseq_10kc,H2_H23,20000,"1,91E+10",,"2,27E+08",9.713,9.713,355,15.997,10.977.515,23.358,1,1,<0.1%
+SRR24886411,Mixed scRNA-seq Trichoplax sp. H2 and Cladtertia collaboinventa 1,H2H23_4_ACME_10x_10kc,H2_H23,20000,"1,95E+10",,"2,32E+08",988,7.389,288,18.306,6.440.214,234.708,3,6,<0.1%
+SRR24886417,scRNA-seq of Trichoplax. sp H2 Notch drugs,H2drugs_10XscRNAseq_10kc,control_drug,40000,"3,68E+10",Notch drug,"4,38E+08",2334,15.029,677,29.496,18.334.556,187.822,2,4,0.10%
+SRR24886420,Trichoplax sp. H2 scRNA-seq 3,H2_3_ACME_10x_10kc_,,8000,"5,97E+09",,"7,11E+07",140,2.667,296,4.813,1234842,507.572,5,10,0.10%
+SRR24886421,Trichoplax sp. H2 scRNA-seq 2,H2_2_ACME_10x_10kc,,8000,"5,76E+09",,"6,86E+07",167,3.12,381,5.685,1436845,410.893,5,10,0.10%
+SRR24886422,Trichoplax sp. H2 scRNA-seq 1,H2_1_ACME_10x_10kc_,,8000,"6,88E+09",,"8,19E+07",919,7.078,702,28.292,3540154,89.085,5,17,0.30%
